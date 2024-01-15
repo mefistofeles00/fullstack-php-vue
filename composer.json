@@ -1,0 +1,16 @@
+{
+    "name": "noa/backend",
+    "description": "a php project",
+    "autoload": {
+        "psr-4": {
+            "Noa\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdullah inanc",
+            "email": "0mefistofeles0@gmail.com"
+        }
+    ],
+    "require": {}
+}
